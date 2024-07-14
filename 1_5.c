@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main()
+int main(void)
 {
 	int fahr;
 	for (fahr = 300; fahr >= 0; fahr = fahr - 20)
